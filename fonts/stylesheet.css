@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'loraitalic';
+    src: url('lora-italic.woff2') format('woff2'),
+         url('lora-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'josefin_sansbold';
+    src: url('josefinsans-bold.woff2') format('woff2'),
+         url('josefinsans-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'josefin_sansregular';
+    src: url('josefinsans-regular.woff2') format('woff2'),
+         url('josefinsans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'josefin_sanssemibold';
+    src: url('josefinsans-semibold.woff2') format('woff2'),
+         url('josefinsans-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
